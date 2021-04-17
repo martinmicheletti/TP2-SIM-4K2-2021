@@ -1,0 +1,42 @@
+C:\Users\Martin\Desktop\SIM\TP2\TP2\bin\Debug\TP2.exe.config
+C:\Users\Martin\Desktop\SIM\TP2\TP2\bin\Debug\TP2.exe
+C:\Users\Martin\Desktop\SIM\TP2\TP2\bin\Debug\TP2.pdb
+C:\Users\Martin\Desktop\SIM\TP2\TP2\bin\Debug\TP2.xml
+C:\Users\Martin\Desktop\SIM\TP2\TP2\obj\Debug\TP2.vbprojAssemblyReference.cache
+C:\Users\Martin\Desktop\SIM\TP2\TP2\obj\Debug\TP2.Form1.resources
+C:\Users\Martin\Desktop\SIM\TP2\TP2\obj\Debug\TP2.Resources.resources
+C:\Users\Martin\Desktop\SIM\TP2\TP2\obj\Debug\TP2.Punto1.resources
+C:\Users\Martin\Desktop\SIM\TP2\TP2\obj\Debug\TP2.vbproj.GenerateResource.cache
+C:\Users\Martin\Desktop\SIM\TP2\TP2\obj\Debug\TP2.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\SIM\TP2\TP2\obj\Debug\TP2.exe
+C:\Users\Martin\Desktop\SIM\TP2\TP2\obj\Debug\TP2.xml
+C:\Users\Martin\Desktop\SIM\TP2\TP2\obj\Debug\TP2.pdb
+C:\Users\Martin\Desktop\SIM\TP2\TP2\obj\Debug\TP2.Punto2.resources
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\bin\Debug\TP2.exe.config
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\bin\Debug\TP2.exe
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\bin\Debug\TP2.pdb
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\bin\Debug\TP2.xml
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.vbprojAssemblyReference.cache
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.Form1.resources
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.Resources.resources
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.Punto1.resources
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.Punto2.resources
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.vbproj.GenerateResource.cache
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.vbproj.CoreCompileInputs.cache
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.exe
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.xml
+C:\Users\JuanSoaje\Desktop\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.pdb
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\bin\Debug\TP2.exe.config
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\bin\Debug\TP2.exe
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\bin\Debug\TP2.pdb
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\bin\Debug\TP2.xml
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.vbprojAssemblyReference.cache
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.Form1.resources
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.Resources.resources
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.Punto1.resources
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.Punto2.resources
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.vbproj.GenerateResource.cache
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.exe
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.xml
+C:\Users\Martin\Downloads\TP2_Constantini, Loza, Micheletti, Soaje (1)\TP2_Constantini, Loza, Micheletti, Soaje\TP2\obj\Debug\TP2.pdb
